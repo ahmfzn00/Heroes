@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Heroes</string>
+
+    <!-- Custom String-->
+    <string-array name="nama_pahlawan">
+        <item>Soetomo</item>
+        <item>Siliwangi</item>
+        <item>Sultan Badaruddin</item>
+        <item>Raja Ali Haji</item>
+        <item>Sisingamangaraja</item>
+        <item>Mh Thamrin</item>
+        <item>I Gusti Ngurah Rai</item>
+    </string-array>
+
+    <string-array name="desc_pahlawan">
+        <item>Mengusir penjajah dari Kota Surabaya</item>
+        <item>Pemimpin Kerajaan Padjajaran Sunda</item>
+        <item>Mengusir penjajah dari Kota Palembang</item>
+        <item>Mengusir penjajah dari Kerajaan Riau Lingga</item>
+        <item>Mengusir penjajah dari Sibolga</item>
+        <item>Membentuk Organisasi PPKI</item>
+        <item>Mengusir penjajah dari Bali</item>
+    </string-array>
+
+
+</resources>
